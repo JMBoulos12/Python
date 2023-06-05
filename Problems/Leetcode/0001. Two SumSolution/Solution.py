@@ -42,3 +42,9 @@ class Solution:
       if target - num in numToIndex:
         return numToIndex[target - num], i
       numToIndex[num] = i
+
+      
+      
+      
+      
+      
