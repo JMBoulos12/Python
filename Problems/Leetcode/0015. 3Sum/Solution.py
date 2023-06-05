@@ -62,3 +62,9 @@ def threeSum(nums: List[int]) -> List[List[int]]:
             else:
                 k -= 1
     return triplets
+
+  
+  
+  
+  
+  
