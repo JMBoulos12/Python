@@ -37,3 +37,9 @@ if x >= 2**31-1 or x <= -2**31: return 0
                 revst = "-" + temp2
             if int(revst) >= 2**31-1 or int(revst) <= -2**31: return 0
             else: return int(revst)
+
+            
+            
+            
+            
+            
