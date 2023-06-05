@@ -42,3 +42,9 @@ def lengthOfLongestSubstring(self, s):
             curr_max += 1
         dct[i] = index
     return max(max_so_far, curr_max)
+
+  
+  
+  
+  
+  
