@@ -77,3 +77,9 @@ class Solution(object):
           left += 1
           max_area = max(min(height[left], height[right]) * (right - left), max_area)
           return max_area
+
+        
+        
+        
+        
+        
