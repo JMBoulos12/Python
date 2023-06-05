@@ -42,3 +42,9 @@ class Solution:
         return False
 
     return not stack
+
+  
+  
+  
+  
+  
