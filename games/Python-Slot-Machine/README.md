@@ -1,2 +1,2 @@
 # Python-Slot-Machine
-JMB
+-JMB.
